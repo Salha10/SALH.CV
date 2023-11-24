@@ -1,0 +1,105 @@
+*{margin: 0; padding: 0;}
+
+body{ background: linear-gradient( #7EFCE5,#39A995);height: 100%vh;font-family: system-ui;}
+
+a{text-decoration: none;color: #fff;}
+
+header{position:;display: flex;justify-content: space-between;align-items: center;margin: 30px;}
+
+header logo{font-size: 30px;text-transform: uppercase;}
+
+header ul{display: flex;justify-content: center;align-items: center;list-style: none;z-index: ;}
+
+header ul li{margin-right: 30px;	}
+
+header ul li a{padding: 6px 15px;border-radius: 20px;}
+
+header ul li a:hover, .run{ background: #fff;color:#7EFCE5;}
+
+body div{display: flex;justify-content: center;align-items: center;}
+
+
+.h2{
+background-color: #17A589;
+text-align: center;
+font-family: Arial, tahoma;
+font-size: 150%;
+margin:20px ;
+border-right: 0px;
+border-left: 0px;
+padding-bottom: 3px;
+padding-top: 3px;}
+
+.h3{
+	background-color: #17A589;
+	text-align: center;
+	font-family: Arial, tahoma;
+	font-size: 150%;
+	margin:20px ;
+	border-right: 0px;
+	border-left: 0px;
+	padding-bottom: 3px;
+	padding-top: 3px;}
+	
+.p2 :hover{
+	color: #fff;
+	text-align: center;
+	font-family: Arial, tahoma;
+	font-size: 150%;
+	background-color: #17A589;
+	margin:10px ;
+	padding:15px ;
+	border: 15px;}
+
+.p2 {	
+	text-align: center;
+	font-family: Arial, tahoma;
+	font-size: 150%;
+	margin:20px ;
+	border: 25px;
+	padding:25px ;}
+
+
+.p3:hover{
+	color: #fff;
+	text-align: center;
+	font-family: Arial, tahoma;
+	font-size: 150%;
+	background-color: #17A589;
+	margin:10px ;
+	padding:15px ;
+	border: 15px;}
+
+
+.p3{	
+	text-align: center;
+	font-family: Arial, tahoma;
+	font-size: 150%;
+	margin:20px ;
+	border: 25px;
+	padding:25px ;}
+
+
+.obje img{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 30px auto;
+	height: 300px;
+	width: 700px;
+	border-radius: 20px;
+	cursor: pointer;}
+
+
+footer{
+font-family: Arial, tahoma;font-size: 100%;background:  linear-gradient( #7EFCE5,#39A995);
+text-align: center;justify-content: space-between;align-items: center;margin:20px; height: 50px;width: 100%px;padding-top:15px ;}
+
+
+footer ul{display: flex;justify-content: center;align-items: center;list-style: none;z-index: ;}
+
+footerul li{margin-right: 30px;	}
+
+footer ul li a{padding: 6px 15px;border-radius: 20px;}
+
+footer ul li a:hover{background: #fff;color:#7EFCE5;}
